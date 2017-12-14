@@ -6,7 +6,9 @@ This is a personal project to test new technologies.
 
 Execute the following:
 
-```gradlew bootRun
+```
+gradlew bootRun
+```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
